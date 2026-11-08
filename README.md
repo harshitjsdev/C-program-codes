@@ -16,17 +16,20 @@ Here, I document my progress from core foundational concepts to complex data str
 
    A system with functions to -
    
-   1. add student record
-   2. delete student record
-   3. update student record
-   4. search student record
-   5. display all students record
-   6. view class statistics -
-      a. average class marks
-      b. Rank holder name and roll no
-      c. no of students passed or failed
+   1. Add student record
+   2. Delete student record
+   3. Update student record
+   4. Search student record
+   5. Display all students record
+   6. View class statistics -
+      
+      (a) average class marks
+      
+      (b) Rank holder name and roll no
+      
+      (c) no of students passed or failed
 
-    it also has age, roll number and marks verification function to store correct data.
+    It also has age, roll number and marks verification function to store correct data.
 
 -----------------------------------------------------------------------------------------------
 ## 📈 *Skills & Concepts Acquired*
