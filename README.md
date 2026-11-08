@@ -13,7 +13,8 @@ Here, I document my progress from core foundational concepts to complex data str
 ## 🚀 *[ Featured Project ]*: 
 
 1. *Student Management System :*
-   A system with functions to -\n
+
+   A system with functions to -
    
    1. add student record
    2. delete student record
@@ -21,9 +22,9 @@ Here, I document my progress from core foundational concepts to complex data str
    4. search student record
    5. display all students record
    6. view class statistics -
-     \n a. average class marks
-      \nb. Rank holder name and roll no
-     \n c. no of students passed or failed
+      a. average class marks
+      b. Rank holder name and roll no
+      c. no of students passed or failed
 
     it also has age, roll number and marks verification function to store correct data.
 
@@ -43,6 +44,7 @@ Here, I document my progress from core foundational concepts to complex data str
 ************************************************************************************************
 ## 📬*[ Connect with Me ]*
 If you have any feedback, suggestions, or want to discuss low-level programming:
+
 e-mail: soniharshit1005@gmail.com
 
                                         
